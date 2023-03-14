@@ -65,7 +65,7 @@ a.btn:active {
 div.cards {
   margin: 0px auto;
   max-width: 1680px;
-  text-align: center;
+  text-align: left;
 }
 div.card {
   background: #ffffff;
@@ -120,7 +120,7 @@ div.card div.card-title a.toggle-info span.right {
   transform: rotate(-45deg);
 }
 div.card div.card-title h2 {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing: -0.05em;
   margin: 0;
@@ -128,7 +128,7 @@ div.card div.card-title h2 {
 }
 div.card div.card-title h2 small {
   display: block;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 600;
   letter-spacing: -0.025em;
 }
